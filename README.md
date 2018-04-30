@@ -6,7 +6,7 @@ LK2-gtx-tex-converter
 Data:
 8 bytes fill 64 pixels.
 
-Pixels are filled in this order:
+Pixels are filled in this order:  
  1  2  3  4  17 18 19 20  65 66 ...  
  5  6  7  8  21 22 23 24  
  9 10 11 12  25 26 27 28  
